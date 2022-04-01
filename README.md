@@ -1,2 +1,3 @@
-# meu-primeiro-git1
+# Meu Primeiro Git
+
 Repositório para aprender a mexer com Git e Gitflow
